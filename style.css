@@ -1,0 +1,5 @@
+:root {
+  --accent: #1565c0;
+}
+body { font-family: sans-serif; margin: 2rem; }
+h1 { color: var(--accent); }

@@ -7,3 +7,4 @@
 - rooms.html – Аудиторії
 - schedule.html – Розклад
 - booking.html – Бронювання
+- contacts.html – Контакти

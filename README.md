@@ -8,3 +8,4 @@
 - schedule.html – Розклад
 - booking.html – Бронювання
 - contacts.html – Контакти
+Сайт: https://iuriev.github.io/room-guide/
